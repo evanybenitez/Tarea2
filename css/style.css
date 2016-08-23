@@ -1,0 +1,13 @@
+body{
+	background-color:  #ccc;
+	width: 700px;
+	margin: 0 auto;
+}
+p.encabezado2{
+
+color: red;
+}
+ol{
+	font-size: 25px;
+	font-family: verdana;
+}
